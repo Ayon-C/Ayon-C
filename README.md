@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-* 🎓 Currently pursuing MCA
+* 🎓 Completed **MCA** last year (2025)
 * 💡 Strong in **Java, OOPs, and SQL**
 * 🌱 Learning **Data Analytics (Excel, Power BI)**
 * 🔧 Interested in **Backend Development**
