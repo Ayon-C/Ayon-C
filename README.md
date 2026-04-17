@@ -41,7 +41,8 @@
 
 ## 📂 Projects
 
-### 🔹File Sharing and Chat Application
+### 🔹File Sharing and Chat Application (Group Project)
+- https://github.com/codeSubhajit0/PEER-SHARE
 
 * Built using **Node.js, Express.js, MongoDB**
 * Features:
