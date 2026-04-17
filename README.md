@@ -51,7 +51,9 @@
   * Real-time chatting
   * Secure file sharing with password
 
-### 🔹 Leaf Disease Detection System
+### 🔹 Leaf Disease Detection System (Group Project)
+- https://github.com/Ayon-C/Disease-Detection-
+  
 * Built using **Python, Machine learning and Deep learning**
 * features:
   Detect the diseases on Tomato, Potato, Bell Pepper and Rice leaves
