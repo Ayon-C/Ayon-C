@@ -41,7 +41,7 @@
 
 ## 📂 Projects
 ### 🔹Music Web Application 
-- https://github.com/Ayon-C/PEER-SHARE
+- https://github.com/Ayon-C/music_website
 
 * Built using **html, css, js, php**
 * Features:
