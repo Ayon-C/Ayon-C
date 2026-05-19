@@ -40,6 +40,16 @@
 ---
 
 ## 📂 Projects
+### 🔹Music Web Application 
+- https://github.com/Ayon-C/PEER-SHARE
+
+* Built using **html, css, js, php**
+* Features:
+
+  * User login system
+  * listening music
+  * edit atartist, song as an admin
+
 
 ### 🔹File Sharing and Chat Application (Group Project)
 - https://github.com/Ayon-C/PEER-SHARE
